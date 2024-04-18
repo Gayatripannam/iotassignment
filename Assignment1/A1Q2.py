@@ -1,3 +1,5 @@
+#face value,place value,reverse value
+
 num = int(input("Enter the number :"))
 temp = num
 

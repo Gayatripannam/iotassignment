@@ -1,3 +1,5 @@
+# find average and assigning grade
+
 subject1 = float(input("Enter marks: "))
 subject2 = float(input("Enter marks: "))
 subject3 = float(input("Enter marks: "))
